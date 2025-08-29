@@ -42,7 +42,7 @@
   border: none;
 }
 
-.video-caption {
+.recipes__video-caption {
   display: flex;
   justify-content: space-between;
   color: #ffffff;

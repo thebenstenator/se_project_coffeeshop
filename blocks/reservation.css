@@ -21,3 +21,7 @@ input,
 button {
   font: inherit;
 }
+
+.reservation__form {
+  margin: 0 auto 120px;
+}
