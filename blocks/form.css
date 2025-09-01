@@ -65,3 +65,8 @@
   justify-content: center;
   column-gap: 12px;
 }
+
+.form__input,
+.form__button {
+  font: inherit;
+}

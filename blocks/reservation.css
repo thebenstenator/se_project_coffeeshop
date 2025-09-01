@@ -17,11 +17,6 @@
   padding: 100px 0 80px 0;
 }
 
-.form__input,
-.form__button {
-  font: inherit;
-}
-
 .reservation__form {
   margin: 0 auto 120px;
 }
